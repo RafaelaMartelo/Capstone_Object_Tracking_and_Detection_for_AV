@@ -1,2 +1,2 @@
-# Capstone_Object_Tracking_for-_AV_and_Detection
+# Capstone_Object_Tracking_and_Detection_for_AV
 Capstone Project: Object Tracking and Detection in Inclement Weather
