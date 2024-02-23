@@ -47,8 +47,6 @@ While our project achieved notable success, there are areas requiring further at
 
 The 16T configuration stands out as a balanced choice, offering high accuracy and practical efficiency, especially in detecting critical object classes under inclement weather conditions. Despite achieving notable precision and recall rates, the project faced challenges such as dataset size and diversity limitations. Future initiatives will aim to address the identified shortcomings, further refining the model to ensure its effectiveness and reliability in real-world autonomous vehicle navigation.
 
-For an in-depth exploration of our methodologies, experiment configurations, and detailed performance metrics, please visit our [GitHub repository](https://github.com/username/repository-name).
-
 ## Curious About the Object Detection Demo?
 
 For more details on the project's app demo using the Prototype developed, please visit our GitHub repository: [Object Detection for Autonomous Vehicles in Inclement Weather GitHub Repository - Streamlit App Demo](https://github.com/RafaelaMartelo/object-detection-demo).
